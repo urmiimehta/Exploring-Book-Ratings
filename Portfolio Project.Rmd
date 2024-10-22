@@ -1,5 +1,5 @@
 ---
-title: "Exploring Brain Imaging Data"
+title: "Book Ratings and Author Popularity"
 subtitle: "Urmi Mehta"
 output: html_document
 date: "2024-10-22"
